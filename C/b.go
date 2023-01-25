@@ -1,4 +1,4 @@
-package B
+package C
 
 import (
 	"github.com/garyxiong123/go-depency-A/A2"
